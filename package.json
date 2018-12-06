@@ -1,0 +1,25 @@
+{
+  "name": "cli-test2",
+  "version": "1.0.0",
+  "description": "my cli-test2",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "cli-test2": "./bin/cli-test2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "cli-test"
+  ],
+  "author": "wangjf",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
