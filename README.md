@@ -1,2 +1,2 @@
 # cli-test2
-hello
+hello 123
